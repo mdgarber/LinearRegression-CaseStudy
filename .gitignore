@@ -160,3 +160,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# SB Jupyer notebook tier 1 and 2
+Springboard Regression Case Study - the Red Wine Dataset - Tier 1.ipynb
+Springboard Regression Case Study - the Red Wine Dataset - Tier 2.ipynb
